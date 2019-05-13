@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{4801FF5C-EDF2-4B2C-8A07-0151C4E6A223}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Practice/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="Practice/Views/Shared/_Layout.cshtml" Line="32" Column="1" />
+      <File FileName="Practice/Views/Home/Index.cshtml" Line="63" Column="30" />
+      <File FileName="Practice/Controllers/HomeController.cs" Line="20" Column="27" />
+      <File FileName="Practice/wwwroot/css/site.css" Line="128" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Practice" expanded="True">
+            <Node name="Practice" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Practice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
